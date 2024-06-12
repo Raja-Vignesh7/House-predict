@@ -1,0 +1,96 @@
+/* .input{
+    margin-left: 40%;
+    margin-top: 10%;
+}
+body {
+    background: 
+        linear-gradient(to right, #7cff5f, #64edbb, #7cff5f, #64edbb), url(/background\ image.png);
+}
+img{
+    margin-left: -1%;
+    opacity: 0.5;
+    object-fit: cover;
+    width: 101.5%;
+} */
+body{
+    background-image: url('house_image.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-color: rgb(255, 255, 255);
+    width: 100vw;
+    height: 100vh;
+}
+.main{
+    background-color: rgba(240, 248, 255, 0.747);
+    background-position: center;
+    margin-left: 30%;
+    margin-right: 43%;
+    margin-top: 17%;
+    margin-bottom: 40%;
+    width: 30%;
+    height: 40%;
+    border-radius: 5px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3);
+}
+.userInput{
+    margin-left: 20%;
+    margin-top: 40%;
+}
+.inputArea{
+    width: 60%;
+    height: 30px;
+    border-radius: 3px;
+    border-width: 2px;
+}
+.submitButton{
+    margin-left: 10%;
+    margin-top: 10%;
+    background-color: chartreuse;
+    border-width: 0cap;
+    width: 70px;
+    height: 30px;
+    border-radius: 3px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3);
+}
+/* .main .container{
+    margin-top: 30vh;
+    width: 25vw;
+    border-radius: 0.5rem;
+    background-color: rgba(255, 255, 255, 0.85);
+} */
+/* .form-control{
+    border: 2px solid black;
+}
+
+.form-label{
+    color: rgb(0, 0, 0);
+}
+
+@media (min-width: 250px) and (max-width: 540px) {
+    .main .container{
+        width: 40vw;
+    }
+
+    .btn{
+        margin: 2px 0 4px 0;
+    }
+}
+
+@media (min-width: 540px) and (max-width: 675px) {
+    .main .container{
+        width: 40vw;
+    }
+}
+
+@media (min-width: 675px) and (max-width: 770px) {
+    .main .container{
+        width: 35vw;
+    }
+}
+
+@media (min-width: 770px) and (max-width: 880px) {
+    .main .container{
+        width: 30vw;
+    }
+} */
